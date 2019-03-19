@@ -1,0 +1,70 @@
+.container{
+    background-image: url("../images/Background-Image.png");
+    background-size: cover;
+}
+#container-header{
+    height: 45px;
+    font-size: x-large;
+    background: orange;
+    margin-top: 5px;
+    margin-left: 5px;
+    padding-bottom: 60px
+}
+h2{
+    font-size: 45px;
+    text-align: center;
+    margin-top: 5px;
+    color: #ebebeb;
+}
+#instructions{
+    background: lightsalmon;
+    color: green;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 5px;
+    height: 375px;
+}
+li{
+    margin: 15px;
+}
+p{
+    margin: 10px;
+}
+#random-number-box{
+    background: rgb(95, 228, 95);
+    color: black;
+    height: 80px;
+    margin-top: 5px;
+    margin-left: 5px;
+    font-size: 50px;
+}
+#wins-losses-box{
+    background: aqua;
+    height: 80px;
+    margin-top: 5px;
+    margin-left: 5px;
+    font-size: medium;
+}
+#stones-row{
+    float: left;
+}
+.img-thumbnail{
+    height: 70px;
+    max-width: 100px;
+    width: 90px;
+    margin-top: 5px;
+}
+#score-text{
+    background: darkgreen;
+    color: #ebebeb;
+    height: 20px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+#total-score{
+    background: darkgreen;
+    color: #ebebeb;
+    height: 85px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
